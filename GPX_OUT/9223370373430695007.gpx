@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from keep</name>
+    <type>Run</type>
+    <trkseg>
+      <trkpt lat="39.865229369915824" lon="116.45410482477071">
+        <ele>10.028343583970884</ele>
+        <time>2022-09-17T14:12:52Z</time>
+      </trkpt>
+      <trkpt lat="39.865229484842885" lon="116.45418709087785">
+        <ele>9.991600595835635</ele>
+        <time>2022-09-17T14:12:56Z</time>
+      </trkpt>
+      <trkpt lat="39.86512831144877" lon="116.45433568655457">
+        <ele>9.997587513563232</ele>
+        <time>2022-09-17T14:13:04Z</time>
+      </trkpt>
+      <trkpt lat="39.865118990211606" lon="116.4545573035819">
+        <ele>10.023066596321257</ele>
+        <time>2022-09-17T14:13:12Z</time>
+      </trkpt>
+      <trkpt lat="39.86507262575563" lon="116.45479840190511">
+        <ele>10.026298044141043</ele>
+        <time>2022-09-17T14:13:20Z</time>
+      </trkpt>
+      <trkpt lat="39.8649695346226" lon="116.45515345304337">
+        <ele>10.028155263991238</ele>
+        <time>2022-09-17T14:13:32Z</time>
+      </trkpt>
+      <trkpt lat="39.86496823884239" lon="116.45526297955573">
+        <ele>10.027850414462135</ele>
+        <time>2022-09-17T14:13:36Z</time>
+      </trkpt>
+      <trkpt lat="39.86492789257827" lon="116.4554601470812">
+        <ele>10.052225773238828</ele>
+        <time>2022-09-17T14:13:48Z</time>
+      </trkpt>
+      <trkpt lat="39.86494934888695" lon="116.45572018046654">
+        <ele>10.029597757942234</ele>
+        <time>2022-09-17T14:13:57Z</time>
+      </trkpt>
+      <trkpt lat="39.86492616563279" lon="116.45581571710069">
+        <ele>10.034153171556735</ele>
+        <time>2022-09-17T14:14:00Z</time>
+      </trkpt>
+      <trkpt lat="39.86493019992888" lon="116.45619529931345">
+        <ele>10.044245255221695</ele>
+        <time>2022-09-17T14:14:12Z</time>
+      </trkpt>
+      <trkpt lat="39.86488323391927" lon="116.45654895042082">
+        <ele>10.066698571010058</ele>
+        <time>2022-09-17T14:14:24Z</time>
+      </trkpt>
+      <trkpt lat="39.86485807689373" lon="116.45690999938124">
+        <ele>10.070343029487</ele>
+        <time>2022-09-17T14:14:38Z</time>
+      </trkpt>
+      <trkpt lat="39.86485807689373" lon="116.45690999938124">
+        <ele>0</ele>
+        <time>2022-09-17T14:14:40.800000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
